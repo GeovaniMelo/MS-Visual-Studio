@@ -1,0 +1,20 @@
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.exe
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.deps.json
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.runtimeconfig.json
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.runtimeconfig.dev.json
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.dll
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\bin\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.pdb
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.csprojAssemblyReference.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.AssemblyInfoInputs.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.AssemblyInfo.cs
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.csproj.CoreCompileInputs.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\staticwebassets\Projeto1-ASP.Net Core.StaticWebAssets.Manifest.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\staticwebassets\Projeto1-ASP.Net Core.StaticWebAssets.xml
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\Projeto1-ASP.Net Core.styles.css
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.RazorTargetAssemblyInfo.cache
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.dll
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.pdb
+C:\Users\geova\source\repos\Projeto1-ASP.Net Core\Projeto1-ASP.Net Core\obj\Debug\netcoreapp3.1\Projeto1-ASP.Net Core.genruntimeconfig.cache
